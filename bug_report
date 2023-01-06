@@ -1,0 +1,12 @@
+"ID": 1,
+"Version": "Windows 11 21H2",
+"Title": "Не отображается меню навигации "Guide" в разделе Twitter`а ",
+"Steps": 
+ "1. Открыть сайт
+  2. Из меню выбрать раздел Learn to trade ---> Guides 
+  3. В меню навигации справа, выбрать раздел Twitter",
+"Actual result": "В разделе Twitter отсутствует меню навигации",
+"Expected result": "Меню навигации справа отображается в каждом разделе guide",
+"Severity": "Minor",
+"Priority": "Low",
+ "Attachments": "Скриншот"
